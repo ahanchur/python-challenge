@@ -71,7 +71,7 @@ avg_change=round(avg_change,2)
 greatest_increase=difference[0]
 greatest_decrease=difference[0]
 
-print(difference)
+
 
 for i in range (len(difference)):
     if difference[i]>greatest_increase:
